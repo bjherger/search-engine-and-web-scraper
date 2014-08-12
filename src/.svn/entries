@@ -1,0 +1,74 @@
+10
+
+dir
+349
+https://cs.usfca.edu/svn/bjherger/cs212/project5/src
+https://cs.usfca.edu/svn/bjherger
+
+
+
+2013-12-11T21:52:12.590636Z
+289
+bjherger
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5af7ec55-43ff-4573-acd1-ff3dabacd61e
+
+database
+dir
+
+indexAndSearch
+dir
+
+log4j2.xml
+file
+
+
+
+
+2014-05-03T05:51:41.000000Z
+19a070075ef3d305a3d1fbb9c1f75d71
+2013-12-07T23:19:40.647939Z
+259
+bjherger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1124
+
+servlets
+dir
+
+webUI
+dir
+

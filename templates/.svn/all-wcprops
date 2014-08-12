@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bjherger/!svn/ver/290/cs212/project5/templates
+END
+CSS2.st
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/CSS2.st
+END
+page.st
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bjherger/!svn/ver/287/cs212/project5/templates/page.st
+END
+queryHistoryBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bjherger/!svn/ver/286/cs212/project5/templates/queryHistoryBody.st
+END
+matchEntry.st
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bjherger/!svn/ver/278/cs212/project5/templates/matchEntry.st
+END
+header.st
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/header.st
+END
+loginBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/loginBody.st
+END
+registerBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/registerBody.st
+END
+welcomeBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bjherger/!svn/ver/275/cs212/project5/templates/welcomeBody.st
+END
+CSS.st
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bjherger/!svn/ver/287/cs212/project5/templates/CSS.st
+END
+homeBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bjherger/!svn/ver/287/cs212/project5/templates/homeBody.st
+END
+passwordBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/passwordBody.st
+END
+row.st
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bjherger/!svn/ver/259/cs212/project5/templates/row.st
+END
+preferencesBody.st
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bjherger/!svn/ver/290/cs212/project5/templates/preferencesBody.st
+END
+loggedOutHeader.st
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/loggedOutHeader.st
+END
+users_list.st
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bjherger/!svn/ver/259/cs212/project5/templates/users_list.st
+END
+loggedInHeader.st
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bjherger/!svn/ver/288/cs212/project5/templates/loggedInHeader.st
+END

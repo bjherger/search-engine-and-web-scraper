@@ -1,0 +1,5 @@
+Debug Log
+
+Issue with document occurrences not all read. Word match count was lower for one document. 
+
+Possible issue with infinite hang during or after adding document to inverted index

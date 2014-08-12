@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets
+END
+PreferencesServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/PreferencesServlet.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/LoginServlet.java
+END
+ChangePasswordServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/ChangePasswordServlet.java
+END
+QueryHistoryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/QueryHistoryServlet.java
+END
+HomeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/HomeServlet.java
+END
+BaseServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bjherger/!svn/ver/285/cs212/project5/src/servlets/BaseServlet.java
+END
+RegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bjherger/!svn/ver/288/cs212/project5/src/servlets/RegisterServlet.java
+END

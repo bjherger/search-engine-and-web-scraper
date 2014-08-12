@@ -1,0 +1,6 @@
+username=user14
+password=qwerty
+database=user14
+#db
+hostname=localhost:3307
+#hostname=sql.cs.usfca.edu
